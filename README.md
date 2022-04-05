@@ -1,4 +1,4 @@
-### Hi there 👋
+[![Mateusz, Back-End Developer](https://assets.selleo.com/banners/mzupa.svg)](https://selleo.com/)
 
 <!--
 **yetiasg/yetiasg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
