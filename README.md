@@ -1,5 +1,8 @@
 [![Mateusz, Back-End Developer](https://assets.selleo.com/banners/mzupa.svg)](https://selleo.com/)
 
+
+[![linkedin-cover](https://user-images.githubusercontent.com/8307833/172712972-0223b98b-a4b9-4c0c-aa47-8e74d2b6f831.png)](https://cherryvue.com/)
+
 <!--
 **yetiasg/yetiasg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
