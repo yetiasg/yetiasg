@@ -1,1 +1,1 @@
-<img width="1440" height="760" alt="cherryvue-logistics-enterprise" src="https://github.com/user-attachments/assets/dc0cc0c9-60db-4980-8944-bdc833eef7d0" />
+<img width="1280" height="320" alt="readme-banner" src="https://github.com/user-attachments/assets/a27d0e64-8f38-4df2-80a2-2006f5c67ecf" />
