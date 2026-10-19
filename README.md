@@ -1,1 +1,1 @@
-<img width="1280" height="320" alt="readme-banner" src="https://github.com/user-attachments/assets/a27d0e64-8f38-4df2-80a2-2006f5c67ecf" />
+<img width="1280" height="320" alt="readme-banner-nostats" src="https://github.com/user-attachments/assets/95b64e45-6b15-4534-a71b-eb60a9f7e6d7" />
