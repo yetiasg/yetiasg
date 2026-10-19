@@ -1,13 +1,3 @@
-[![Mateusz, Back-End Developer](https://assets.selleo.com/banners/mzupa.svg)](https://selleo.com/)
-
-
-
-
-
-
-
-
-
 <svg xmlns="http://www.w3.org/2000/svg" width="1440" height="760" viewBox="0 0 1440 760" role="img" aria-labelledby="title description">
 <title id="title">Cherryvue — Logistics Software Solutions</title>
 <desc id="description">Enterprise-style logistics technology banner with a modular warehouse, connected inventory nodes, shipment tracking, and Cherryvue branding.</desc>
@@ -93,22 +83,3 @@
 <text x="102" y="702" class="micro" fill="#829C90">CHERRYVUE  /  ENTERPRISE LOGISTICS SOFTWARE</text>
 <text x="1334" y="702" class="micro" fill="#829C90" text-anchor="end">BUILT FOR CONNECTED OPERATIONS</text>
 </svg>
-
-
-<img width="1440" height="760" alt="cherryvue-logistics-enterprise" src="https://github.com/user-attachments/assets/12289cb9-9adf-4cea-b64d-5de5a732bda5" />
-
-
-<!--
-**yetiasg/yetiasg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
